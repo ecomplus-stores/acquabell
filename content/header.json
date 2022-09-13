@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
@@ -14,9 +14,19 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
-    "full_width": false
+    "featured": [
+      "/adaptadores/?Adaptadores",
+      "/filtros-e-refis/?Filtros e Refis",
+      "/torneiras/?TORNEIRAS",
+      "/variadas/?Variadas",
+      "/libell/?LIBELL",
+      "/colormaq/?COLORMAQ",
+      "/latina/?LATINA",
+      "/ibbl/?IBBL",
+      "/electrolux?ELECTROLUX"
+    ],
+    "random": 9,
+    "full_width": true
   },
   "desktop_megamenu": false,
   "search_input": true,
