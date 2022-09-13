@@ -40,6 +40,11 @@
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     }
   ]
 }
