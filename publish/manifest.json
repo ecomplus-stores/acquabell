@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.2284c27795db94a9f883036df22041fd.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.f2cd0c5f07d4c33abca15e0baeab9117.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.f2334f880899ebce0023922934141d6f.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.88ffc57bf02beb32615e2cbfd07152bf.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.f93b87aae505541c1e40763dbcd2bdcb.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "acquabell",
+  "short_name": "Acquabell",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Acquabell",
+  "background_color": "#ffffff",
+  "theme_color": "#084eaf"
+}
