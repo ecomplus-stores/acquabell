@@ -8000,13 +8000,13 @@
     </url>
   
     <url>
-      <loc>https://acquabell.netlify.app/pages/pagamentos</loc>
+      <loc>https://acquabell.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://acquabell.netlify.app/pages/faq</loc>
+      <loc>https://acquabell.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
