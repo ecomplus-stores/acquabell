@@ -7910,6 +7910,12 @@
     </url>
   
     <url>
+      <loc>https://acquabell.netlify.app/valvula-redutora-pressao-12-x-12-p-purificador-de-agua</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://acquabell.netlify.app/marca/colormaq</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
