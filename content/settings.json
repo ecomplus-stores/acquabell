@@ -1,5 +1,5 @@
 {
-  "domain": "acquabell.netlify.app",
+  "domain": "www.acquabell.com.br",
   "currency_symbol": "R$",
   "primary_color": "#084eaf",
   "theme": {
@@ -9,7 +9,7 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/acquabell",
   "logo": "/img/uploads/whatsapp_image_2022-08-25_at_16.08.25-removebg-preview.png",
-  "name": "acquabell ",
+  "name": "Acquabell ",
   "short_name": "Acquabell",
   "lang": "pt_br",
   "currency": "BRL",
