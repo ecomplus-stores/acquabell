@@ -692,12 +692,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/kit-01-vlvula-copo-e-02-jato-p/-bebedouro-de-presso-libell</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/kit-2-torneiras-ibbl-original-purificador-fr-600-exclusive</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8912,6 +8906,12 @@
     </url>
   
     <url>
+      <loc>https://www.acquabell.com.br/kit-torneiras-vlvula-copo--vlvula-jato-bebedouro-presso</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.acquabell.com.br/marca/colormaq</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -9044,21 +9044,27 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
+      <loc>https://www.acquabell.com.br/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
+    </url>
+  
+    <url>
       <loc>https://www.acquabell.com.br/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.acquabell.com.br/admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
     <url>
@@ -9071,12 +9077,6 @@
       <loc>https://www.acquabell.com.br/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.acquabell.com.br/admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
     </url>
   
 </urlset>
