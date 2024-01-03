@@ -3962,12 +3962,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/kit-03-filtros-refil-pb603-para-purificador-de-agua-compativel-policarbon</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/torneira-branca-para-bebedouro-max-e-baby-new-up</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -3987,12 +3981,6 @@
   
     <url>
       <loc>https://www.acquabell.com.br/torneira-filtro-purificador-de-agua-branca-1-4-volta</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.acquabell.com.br/kit-02-filtros-refil-pb603-para-purificador-de-agua-compativel-policarbon</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -5961,12 +5949,6 @@
   
     <url>
       <loc>https://www.acquabell.com.br/pingadeira-do-purificador-electrolux-pe11b-original</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.acquabell.com.br/filtro-refil-pb603-para-purificador-de-agua-policarbon</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -9062,15 +9044,15 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/maintenance/index</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.acquabell.com.br/maintenance/index</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
 </urlset>
