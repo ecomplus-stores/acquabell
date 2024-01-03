@@ -2396,12 +2396,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/kit-10-torneiras-valvula-copo-para-bebedouro-de-pressao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/painel-frontal-para-purificador-fr600-branco-ibbl</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -9062,12 +9056,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -9077,6 +9065,12 @@
       <loc>https://www.acquabell.com.br/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.acquabell.com.br/admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
