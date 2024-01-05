@@ -584,12 +584,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/3-filtro-refil-acquaflow-200---compatvel-ap200</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/filtro-de-gua-completo-5-rosca-3/4-branco</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2612,12 +2606,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/kit-3-refil-filtro-acquaflow-200-compativel-ap200-copia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/registro-de-1-4-com-rosca-externa-de-1-2</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2637,12 +2625,6 @@
   
     <url>
       <loc>https://www.acquabell.com.br/visor-inserto-preto-purificador-new-evidence-original-new-up</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.acquabell.com.br/kit-2-refil-filtro-acquaflow-200-compativel-ap200</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -4005,12 +3987,6 @@
   
     <url>
       <loc>https://www.acquabell.com.br/p_894</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.acquabell.com.br/refil-filtro-acqua-fresh-intense-200-br-carvao-ativado</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -8852,6 +8828,12 @@
     </url>
   
     <url>
+      <loc>https://www.acquabell.com.br/refil-filtro-acqua-fresh-intense-200-br-carvo-ativado</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.acquabell.com.br/marca/colormaq</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -9002,13 +8984,13 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/admin/index</loc>
+      <loc>https://www.acquabell.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/app/index</loc>
+      <loc>https://www.acquabell.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
