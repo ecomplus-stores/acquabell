@@ -1418,12 +1418,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/torneira-filtro-de-agua-acqua-due-mesa-original-lorenzetti</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/base-cinza-purificador-ibbl-original-due-e-due-evo-innovare</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8498,6 +8492,12 @@
     </url>
   
     <url>
+      <loc>https://www.acquabell.com.br/torneira-filtro-de-gua-acqua-due-mesa-lorenzetti-original</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.acquabell.com.br/pecas-para-purificadores/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -9008,13 +9008,13 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/app/index</loc>
+      <loc>https://www.acquabell.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/admin/index</loc>
+      <loc>https://www.acquabell.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
