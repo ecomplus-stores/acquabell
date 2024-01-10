@@ -3080,12 +3080,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/filtro-refil-original-rpc-01-compacto-para-purificador-de-agua-lorenzetti</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/torneira-acquaflex-stilo-libell-lado-direito-branca-e-azul</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8859,6 +8853,12 @@
   
     <url>
       <loc>https://www.acquabell.com.br/filtro-refil-rp-01-original-purificador-de-gua-lorenzetti</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.acquabell.com.br/filtro-orig-rpc-01-compacto-purificador-de-gua-lorenzetti</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
