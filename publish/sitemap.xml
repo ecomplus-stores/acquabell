@@ -3854,12 +3854,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/torneira-filtro-de-agua-acqua-due-mesa-lorenzetti-original</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/funil-stop-spill-para-bebedouro-mini-master-cinza-karina</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -3867,12 +3861,6 @@
   
     <url>
       <loc>https://www.acquabell.com.br/kit-ralo-completo-para-bebedouro-de-pressao-press-side-libell</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.acquabell.com.br/torneira-filtro-purificador-de-agua-acqua-due-parede-lorenzetti-original</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -8504,6 +8492,12 @@
     </url>
   
     <url>
+      <loc>https://www.acquabell.com.br/torneira-filtro-de-gua-acqua-due-parede-lorenzetti-original</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.acquabell.com.br/pecas-para-purificadores/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -9014,13 +9008,13 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/admin/index</loc>
+      <loc>https://www.acquabell.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/app/index</loc>
+      <loc>https://www.acquabell.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
