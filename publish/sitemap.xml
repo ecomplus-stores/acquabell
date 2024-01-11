@@ -6368,18 +6368,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/kit-10-torneiras-pa355-c-alavanca-cinza-latina-original</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.acquabell.com.br/18-torneira-branca-pa355-com-alavanca-cinza-latina-original</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/18-torneira-branca-latina-pabr-355-lado-esquerdo-original</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8960,13 +8948,13 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/pages/sobre-nos</loc>
+      <loc>https://www.acquabell.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/pages/privacidade</loc>
+      <loc>https://www.acquabell.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
