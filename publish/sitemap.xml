@@ -4196,12 +4196,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/registro-esmaltec-para-bebedouro-e-purificador-original</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/tampa-para-bebedouro-hiza-e-ez-grafite</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8547,6 +8541,12 @@
   
     <url>
       <loc>https://www.acquabell.com.br/registro-para-bebedouro-e-purificador-de-gua---ibbl</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.acquabell.com.br/registro-para-bebedouro-e-purificador-de-gua---esmaltec</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
