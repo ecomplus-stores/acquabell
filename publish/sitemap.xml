@@ -8864,12 +8864,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/retentor-para-tanquinho-e-lavadora-original---libell</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/torneira-preta-alavanca-para-bebedouro-evidence---new-up</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8913,6 +8907,12 @@
   
     <url>
       <loc>https://www.acquabell.com.br/agitador-completo-para-lavadora-bell-6.4-da-libell</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.acquabell.com.br/retentor-para-tanquinho-e-lavadora-libell---original</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -9068,13 +9068,13 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/app/index</loc>
+      <loc>https://www.acquabell.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/admin/index</loc>
+      <loc>https://www.acquabell.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
