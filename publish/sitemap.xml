@@ -5384,12 +5384,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/filtro-refil-wfs011-full-flow-para-purificador-de-agua</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/polia-para-agitador-do-tanquinho-lavadora-lcm-6-kg-colormaq</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8918,6 +8912,12 @@
     </url>
   
     <url>
+      <loc>https://www.acquabell.com.br/refil-wfs011-full-flow-compatvel-esmaltec-acqua-7</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.acquabell.com.br/marca/colormaq</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -9068,13 +9068,13 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/app/index</loc>
+      <loc>https://www.acquabell.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/admin/index</loc>
+      <loc>https://www.acquabell.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
