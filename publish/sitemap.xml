@@ -5492,12 +5492,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/filtro-refil-wfs030-small-flow-para-purificador-de-agua</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/anel-fixacao-do-filtro-purificador-electrolux-pe11b-original</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8913,6 +8907,12 @@
   
     <url>
       <loc>https://www.acquabell.com.br/refil-wfs011-full-flow-compatvel-esmaltec-acqua-7</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.acquabell.com.br/refil-wfs030-small-flow-compatvel-ibbl-avanti/mio</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
