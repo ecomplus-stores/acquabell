@@ -5978,12 +5978,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/anel-fixacao-do-filtro-purificador-pa21g-original-electrolux</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/conjunto-pingadeira-purificador-pa25g-original-electrolux</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8907,6 +8901,12 @@
   
     <url>
       <loc>https://www.acquabell.com.br/tampa-superior-purificador-pa21g-original---electrolux</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.acquabell.com.br/anel-fixao-do-filtro-purificador-pa21g-original-electrolux</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
