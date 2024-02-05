@@ -1412,12 +1412,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/viseira-painel-teclas-fume-claro-bebedouro-purificador-latina</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/filtro-refil-top-web-para-purificadores-europa-hf-by-hebe-e-bliss</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8552,6 +8546,12 @@
     </url>
   
     <url>
+      <loc>https://www.acquabell.com.br/viseira-painel-fum-claro-bebedouro/purificador---latina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.acquabell.com.br/pecas-para-purificadores/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -9014,12 +9014,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/pages/privacidade</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -9027,6 +9021,12 @@
   
     <url>
       <loc>https://www.acquabell.com.br/pages/termos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.acquabell.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
