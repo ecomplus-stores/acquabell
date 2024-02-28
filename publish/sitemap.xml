@@ -7172,18 +7172,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/kit-02-filtro-refil-avanti-ibbl-original</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.acquabell.com.br/kit-03-filtro-refil-avanti-ibbl-original</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/cuba-reservatrio-purificador-colormaq-acqua-compressor</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -9044,13 +9032,13 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/pages/privacidade</loc>
+      <loc>https://www.acquabell.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/pages/sobre-nos</loc>
+      <loc>https://www.acquabell.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
