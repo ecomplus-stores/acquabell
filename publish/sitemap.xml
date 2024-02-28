@@ -8186,12 +8186,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/adaptador-p/-torneira-1/2-mangueira-1/4-libell/ibbl/esmaltec</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/adaptador-p/-torneira-1/2-e-mangueira-5/16-compatvel-latina</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8925,6 +8919,12 @@
   
     <url>
       <loc>https://www.acquabell.com.br/boto-manipulador-timer-para-lavadora-10kg-original--libell</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.acquabell.com.br/adaptador-p/-torneira-1/2-mangueira-1/4-libell/ibbl/esmaltec</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
