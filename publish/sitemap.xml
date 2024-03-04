@@ -9008,6 +9008,12 @@
     </url>
   
     <url>
+      <loc>https://www.acquabell.com.br/pages/condicoes-de-entrega</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.acquabell.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -9027,12 +9033,6 @@
   
     <url>
       <loc>https://www.acquabell.com.br/pages/termos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.acquabell.com.br/pages/condicoes-de-entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
