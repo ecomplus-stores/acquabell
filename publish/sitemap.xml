@@ -4142,12 +4142,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/agitador-new-maq-new-up-cinza-10-kg</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/reservatorio-cuba-plastica-bebedouros-libell-original</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8835,6 +8829,12 @@
   
     <url>
       <loc>https://www.acquabell.com.br/filtro-refil-para-purificador-de-gua-ibbl-avanti-e-mio</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.acquabell.com.br/agitador-new-maq-new-up-10-kg-cinza---original</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
