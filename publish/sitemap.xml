@@ -5258,12 +5258,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/p_774</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/evaporador-para-purificador-fr600-ibbl</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8768,6 +8762,18 @@
     </url>
   
     <url>
+      <loc>https://www.acquabell.com.br/lente-para-painel-do-purificador-xpa775-original-latina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.acquabell.com.br/tampa-superior-p/-purificador-pa731/-pa735-original-latina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.acquabell.com.br/marca/colormaq</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -8870,13 +8876,13 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/pages/sobre-nos</loc>
+      <loc>https://www.acquabell.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/pages/privacidade</loc>
+      <loc>https://www.acquabell.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
