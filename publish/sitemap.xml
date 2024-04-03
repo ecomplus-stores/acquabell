@@ -2252,12 +2252,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/tampa-para-purificador-latina-fume-escuro</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/torneira-branca-e-azul-ibbl-lado-direito-modelo-antigo</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8924,6 +8918,12 @@
     </url>
   
     <url>
+      <loc>https://www.acquabell.com.br/maintenance/index</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.acquabell.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -8933,12 +8933,6 @@
       <loc>https://www.acquabell.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.acquabell.com.br/maintenance/index</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
     </url>
   
 </urlset>
