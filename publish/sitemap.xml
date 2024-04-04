@@ -6002,12 +6002,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/refil-filtro-p-purificador-de-agua-soft-everest</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/botao-manipulo-do-registro-purificador-ibbl---original</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8769,6 +8763,12 @@
   
     <url>
       <loc>https://www.acquabell.com.br/lente-grafismo-painel-do-purificador-pa733-original-latina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.acquabell.com.br/filtro-refil-quality-compatvel-com-purificador-da-everest</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
