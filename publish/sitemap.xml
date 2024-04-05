@@ -3398,12 +3398,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/funil-stop-spill-para-bebedouro-mini-master-cinza-karina</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/kit-ralo-completo-para-bebedouro-de-pressao-press-side-libell</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8409,6 +8403,12 @@
   
     <url>
       <loc>https://www.acquabell.com.br/tampo-para-bebedouro-master-k10-e-mini-k11-karina-cinza</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.acquabell.com.br/funil-stop-spill-bebedouro-master/mini-karina-cinza-original</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
