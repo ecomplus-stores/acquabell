@@ -8744,12 +8744,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/pingadeira-completa-fum-claro-br355-pa335-latina-original</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/lente-painel-frontal-latina-original-purif-pn555-fume-escuro</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8757,6 +8751,12 @@
   
     <url>
       <loc>https://www.acquabell.com.br/boto-branco-para-purificador-pn535-e-pn555-original-latina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.acquabell.com.br/pingadeira-completa-fum-claro-br/pa355-/355-latina-original</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
