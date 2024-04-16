@@ -548,12 +548,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/acoplamento-new-cinza-colormaq</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/fonte-chaveada-para-bebedouros-e-purificadores-eletronicos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -3992,12 +3986,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/batedor-agitador-completo-new-pioneer-colormaq-original</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/base-para-bebedouro-e-purificador-colormaq-branca</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -4149,12 +4137,6 @@
   
     <url>
       <loc>https://www.acquabell.com.br/manipulo-lateral-para-bebedouro-brv2-colormaq-original</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.acquabell.com.br/agitador-batedor-new-cinza-colormaq</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -8876,13 +8858,13 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/pages/contato</loc>
+      <loc>https://www.acquabell.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/pages/privacidade</loc>
+      <loc>https://www.acquabell.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
