@@ -1724,12 +1724,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/evaporador-serpentina-bebedouro-egc-35-original-esmaltec</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/cotovelo-1-4-de-90</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8756,6 +8750,18 @@
     </url>
   
     <url>
+      <loc>https://www.acquabell.com.br/evaporador-serpentina-bebedouro-egm30-original-esmaltec</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.acquabell.com.br/evaporador-serpentina-original-para-bebedouro-egc35-esmaltec</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.acquabell.com.br/marca/colormaq</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -8858,13 +8864,13 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/pages/privacidade</loc>
+      <loc>https://www.acquabell.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/pages/sobre-nos</loc>
+      <loc>https://www.acquabell.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
