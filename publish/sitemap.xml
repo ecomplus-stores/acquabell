@@ -4748,12 +4748,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/filtro-refil-wfs001-easy-flow-para-purificador-de-agua</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/tampa-da-limpeza-do-purificador-electrolux-pe11b-original</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8775,6 +8769,12 @@
   
     <url>
       <loc>https://www.acquabell.com.br/filtro-wfs022-compat.-europa-noblesse-plus/davinci/cta-smart</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.acquabell.com.br/refil-modelo-wfs001-easy-flow-compatvel-polar-side-by-side</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
