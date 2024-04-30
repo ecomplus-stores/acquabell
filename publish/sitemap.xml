@@ -8768,12 +8768,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/torneira-top-esmaltec-com-trava-manuseador-lado-direito</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/marca/colormaq</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -8882,13 +8876,13 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/pages/sobre-nos</loc>
+      <loc>https://www.acquabell.com.br/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/pages/termos</loc>
+      <loc>https://www.acquabell.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
