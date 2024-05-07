@@ -2564,12 +2564,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/torneira-master-mini-libell-lado-esquerdo-branca</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/lateral-cinza-steel-esquerdo-direito-purificador-vivax-ibbl</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8745,6 +8739,12 @@
   
     <url>
       <loc>https://www.acquabell.com.br/condutor-cachimbo-ibbl-purificador-fr600-exclusive/speciale</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.acquabell.com.br/torneira-branca-libell-para-master-e-mini-lado-esquerdo</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
