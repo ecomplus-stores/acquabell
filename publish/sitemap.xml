@@ -8792,6 +8792,12 @@
     </url>
   
     <url>
+      <loc>https://www.acquabell.com.br/adesivo-preto-ibbl-do-painel-purificador-original-exclusive</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.acquabell.com.br/marca/colormaq</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -8942,13 +8948,13 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/app/index</loc>
+      <loc>https://www.acquabell.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/admin/index</loc>
+      <loc>https://www.acquabell.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
