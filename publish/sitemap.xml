@@ -8786,6 +8786,12 @@
     </url>
   
     <url>
+      <loc>https://www.acquabell.com.br/adesivo-cinza-ibbl-do-painel-purificador-original-exclusive</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.acquabell.com.br/marca/colormaq</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -8876,13 +8882,13 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/pages/contato</loc>
+      <loc>https://www.acquabell.com.br/pages/condicoes-de-entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/pages/condicoes-de-entrega</loc>
+      <loc>https://www.acquabell.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
