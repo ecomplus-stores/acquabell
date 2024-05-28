@@ -6998,12 +6998,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/filtro-refil-carvo-ativado-carbon-block-7-de-encaixe</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/filtro-refil-carvo-ativado-carbon-block-9.3/4-de-encaixe</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8811,6 +8805,12 @@
   
     <url>
       <loc>https://www.acquabell.com.br/filtro-carbon-block-5-de-encaixe-universal-c/-carvo-ativado</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.acquabell.com.br/filtro-carbon-block-7-de-encaixe-universal-c/-carvo-ativado</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
