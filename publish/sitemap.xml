@@ -2006,12 +2006,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/torneira-alavanca-copo-ibbl-branca-gravacao-azul</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/botao-interruptor-liga-desliga-ventilador-original-ibbl</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8816,6 +8810,12 @@
     </url>
   
     <url>
+      <loc>https://www.acquabell.com.br/torneira-ibbl-alavanca-copo-branca-gravao-azul-p/-compact</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.acquabell.com.br/marca/colormaq</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -8948,15 +8948,15 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.acquabell.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
