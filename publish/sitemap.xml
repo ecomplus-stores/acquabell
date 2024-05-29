@@ -6788,12 +6788,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/refil-wfs005-star-flow-compatvel-masterfrio-rtulo-branco</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/refil-wfs007-hiper-flow-compatvel-purif-presso-universal</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8822,6 +8816,12 @@
     </url>
   
     <url>
+      <loc>https://www.acquabell.com.br/filtro-wfs-005-star-flow-compatvel-rtulo-branco-masterfrio</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.acquabell.com.br/marca/colormaq</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -8924,13 +8924,13 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/pages/sobre-nos</loc>
+      <loc>https://www.acquabell.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/pages/privacidade</loc>
+      <loc>https://www.acquabell.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
