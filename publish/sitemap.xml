@@ -7382,12 +7382,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/torneiras-para-bebedouro-branca---lazarios</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/2-torneiras-para-bebedouro-branca---lazarios</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8498,6 +8492,12 @@
     </url>
   
     <url>
+      <loc>https://www.acquabell.com.br/torneira-lazarios-branca-para-bebedouro-master-e-mini</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.acquabell.com.br/pecas-para-purificadores/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -8948,6 +8948,12 @@
     </url>
   
     <url>
+      <loc>https://www.acquabell.com.br/pages/condicoes-de-entrega</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.acquabell.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -8955,12 +8961,6 @@
   
     <url>
       <loc>https://www.acquabell.com.br/pages/privacidade</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.acquabell.com.br/pages/condicoes-de-entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
