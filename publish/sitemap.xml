@@ -3710,12 +3710,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/refil-wfs033-deep-flow-compativel-lorenzetti</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/uniao-em-t-de-3-8</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8883,6 +8877,12 @@
   
     <url>
       <loc>https://www.acquabell.com.br/painel-frontal-original-branco-purificador-vivx-touch-ibbl</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.acquabell.com.br/filtro-refil-para-purificador-gioviali-lorenzetti-compatvel</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
