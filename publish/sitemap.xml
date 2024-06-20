@@ -5546,12 +5546,6 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/painel-frontal-branco-purificador-innovare-ibbl-original</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.acquabell.com.br/pingadeira-completa-branca-para-bebedouro-coluna---hiza-e-ez</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -8894,6 +8888,12 @@
     </url>
   
     <url>
+      <loc>https://www.acquabell.com.br/gabinete-frontal-original-branco-purificador-innovare-ibbl</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.acquabell.com.br/marca/colormaq</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -9044,13 +9044,13 @@
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/app/index</loc>
+      <loc>https://www.acquabell.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.acquabell.com.br/admin/index</loc>
+      <loc>https://www.acquabell.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
